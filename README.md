@@ -10,7 +10,7 @@ The Smart Surveillance System is a sophisticated multi-object (human) detection 
 
 ## Features
 
-- **Human Detection:** Utilizes a custom-trained YOLOv8 model for accurate human detection.
+- **Object Detection:** Utilizes a custom-trained YOLOv8 model for accurate Object detection.
 - **Object Tracking:** Employs advanced tracking algorithms such as Deep SORT, ByteTrack, and FairMOT to maintain continuous tracking of detected objects.
 - **Re-Identification:** Enhances tracking by re-identifying individuals across different camera views and time intervals.
 - **Region Object Counting:** Counts the number of objects in specified regions.
