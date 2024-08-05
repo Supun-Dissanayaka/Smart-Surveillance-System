@@ -2,9 +2,9 @@
 
 ## Overview
 
-The Smart Surveillance System is a sophisticated multi-object (human) detection and tracking system designed for public environments. It leverages advanced computer vision techniques and machine learning models to provide real-time insights into human activities. Key features include object counting, region waiting time calculation, and walk flow detection.
+The Smart Surveillance System is a sophisticated multi-object (human) detection and tracking system designed for public environments. It leverages advanced computer vision techniques and machine learning models to provide real-time insights into human activities. Key features include object detection, object tracking, object counting, region waiting time calculation, walk flow detection and Re-Identification.
 
-## **Here is a demo containing the application output:**
+## **Here is a demo containing the project output:**
 ![Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputVideos/sample_outputvideo.gif?raw=true)
 
 
@@ -12,6 +12,7 @@ The Smart Surveillance System is a sophisticated multi-object (human) detection 
 
 - **Human Detection:** Utilizes a custom-trained YOLOv8 model for accurate human detection.
 - **Object Tracking:** Employs advanced tracking algorithms such as Deep SORT, ByteTrack, and FairMOT to maintain continuous tracking of detected objects.
+- **Re-Identification:** Enhances tracking by re-identifying individuals across different camera views and time intervals.
 - **Region Object Counting:** Counts the number of objects in specified regions.
 - **Region Waiting Time Calculation:** Computes the time objects spend in designated regions.
 - **Walk Flow Detection:** Analyzes and visualizes the flow of movement within the surveillance area.
@@ -22,6 +23,7 @@ The Smart Surveillance System is a sophisticated multi-object (human) detection 
 - **Detection Model:** YOLOv8 (custom-trained)
 - **Programming Language:** Python
 - **Tracking Algorithms:** Deep SORT, ByteTrack, FairMOT
+- **Framework:** PyTorch
 
 ## Project Details
 
@@ -30,6 +32,10 @@ This project showcases the implementation of a high-level surveillance system de
 ### Human Detection and Tracking
 
 The system uses a custom-trained YOLOv8 model for human detection, ensuring high accuracy and efficiency. The detection is followed by tracking algorithms like Deep SORT, ByteTrack, and FairMOT, which provide robust and reliable tracking capabilities.
+
+### Re-Identification
+
+The Re-Identification feature allows the system to recognize and track individuals across different camera views and over time, enhancing the overall tracking performance and providing more comprehensive surveillance coverage.
 
 ### Region-Based Analysis
 
@@ -54,3 +60,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Deep SORT](https://github.com/nwojke/deep_sort)
 - [ByteTrack](https://github.com/ifzhang/ByteTrack)
 - [FairMOT](https://github.com/ifzhang/FairMOT)
+- [PyTorch](https://pytorch.org/)
