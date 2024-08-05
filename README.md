@@ -1,10 +1,12 @@
 # Smart Surveillance System
 
-![Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputVideos/sample_outputvideo.gif?raw=true)
-
 ## Overview
 
 The Smart Surveillance System is a sophisticated multi-object (human) detection and tracking system designed for public environments. It leverages advanced computer vision techniques and machine learning models to provide real-time insights into human activities. Key features include object counting, region waiting time calculation, and walk flow detection.
+
+## **Here is a demo containing the application output:**
+![Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputVideos/sample_outputvideo.gif?raw=true)
+
 
 ## Features
 
@@ -40,10 +42,6 @@ The walk flow detection feature visualizes the movement patterns of individuals,
 ## Note
 
 Due to the sensitive nature of the project, the source code is not publicly available. However, the results and methodologies used are described in this README to provide an overview of the capabilities and functionalities of the system.
-
-## Examples
-
-![Example Output](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputVideos/sample_outputvideo.gif?raw=true)
 
 ## License
 
