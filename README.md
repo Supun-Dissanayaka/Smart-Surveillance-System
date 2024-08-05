@@ -1,6 +1,6 @@
 # Smart Surveillance System
 
-![Smart Surveillance System](https://github.com/your_username/your_repository/blob/main/path_to_your_gif.gif?raw=true)
+![Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputVideos/sample_outputvideo.gif?raw=true)
 
 ## Overview
 
@@ -43,7 +43,7 @@ Due to the sensitive nature of the project, the source code is not publicly avai
 
 ## Examples
 
-![Example Output](https://github.com/your_username/your_repository/blob/main/path_to_your_example_output.gif?raw=true)
+![Example Output](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputVideos/sample_outputvideo.gif?raw=true)
 
 ## License
 
