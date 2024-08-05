@@ -1,12 +1,12 @@
 # Smart Surveillance System
 
-## Overview
-
-The Smart Surveillance System is a sophisticated multi-object (human) detection and tracking system designed for public environments. It leverages advanced computer vision techniques and machine learning models to provide real-time insights into human activities. Key features include object detection, object tracking, object counting, region waiting time calculation, walk flow detection and Re-Identification.
-
 ## **Here is a demo containing the project output:**
 ![Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputVideos/sample_outputvideo.gif?raw=true)
 
+
+## Overview
+
+The Smart Surveillance System is a sophisticated multi-object (human) detection and tracking system designed for public environments. It leverages advanced computer vision techniques and machine learning models to provide real-time insights into human activities. Key features include object detection, object tracking, object counting, region waiting time calculation, walk flow detection and Re-Identification.
 
 ## Features
 
