@@ -24,6 +24,8 @@ The Smart Surveillance System is a sophisticated multi-object (human) detection 
 - **Programming Language:** Python
 - **Tracking Algorithms:** Deep SORT, ByteTrack, FairMOT
 - **Framework:** PyTorch
+- **Feature Extraction**: ResNet-50
+- **Identification Enhancement**: Cosine similarity, Kalman filtering
 
 ## Project Details
 
